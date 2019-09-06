@@ -1,4 +1,3 @@
-# ip_proj
 ## Introduction to Programming (Python) Final Project
 ## Max Reinheimer dos Santos Denig
 
